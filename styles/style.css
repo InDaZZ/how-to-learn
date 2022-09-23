@@ -292,6 +292,7 @@ justify-content: center;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
+  color: white;
 }
 
 .footer__column-links {
@@ -302,10 +303,6 @@ justify-content: center;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-}
-
-.footer__column-heading {
-  color: white;
 }
 
 .footer__column-link {
