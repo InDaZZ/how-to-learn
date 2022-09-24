@@ -68,7 +68,6 @@
   bottom: 0;
   background-image: url(../images/header-image.png);
   background-size: cover; 
-  
 }
 
 .header__square-pic {
@@ -175,7 +174,6 @@ justify-content: center;
 }
 
 .table__heading {
-  
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
