@@ -92,7 +92,6 @@ justify-content: center;
 }
 
 .two-columns {
-  
   display: flex;
   justify-content: space-between;
   width: 80%;
@@ -177,7 +176,7 @@ justify-content: center;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-  margin: 0 ;
+  margin: 0;
 }
 
 .table__text{ 
@@ -274,6 +273,7 @@ justify-content: center;
   justify-content: space-between;
   flex-basis: 711px;   
 }
+
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   background-size: cover;
