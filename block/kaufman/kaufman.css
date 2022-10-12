@@ -6,3 +6,7 @@
     z-index: 1;
     color: white;
   }
+  .kaufman:hover {
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.5s;
+  }

@@ -3,3 +3,7 @@
     display: flex;
   justify-content: center;
   }
+  .description:hover {
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.5s;
+  }

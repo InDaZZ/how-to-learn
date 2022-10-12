@@ -10,4 +10,8 @@
     /* выше установили ограничения для секции */
     overflow: hidden;
   }
+  .header:hover {
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.5s;
+  }
   

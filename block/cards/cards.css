@@ -5,3 +5,7 @@
     flex-wrap: wrap;
     margin: auto;
 }
+.cards:hover {
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.5s;
+  }
