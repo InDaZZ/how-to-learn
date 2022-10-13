@@ -6,7 +6,3 @@
     justify-content: center;
     box-sizing: border-box;
   }
-  .footer:hover {
-    opacity: 0.8;
-    transition: opacity ease-in-out 0.5s;
-  }

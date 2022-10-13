@@ -7,3 +7,7 @@
     font-weight: normal;
     align-self: flex-start;
 }
+.khan__buy-link:hover {
+    opacity: 0.6;
+      transition: opacity ease-in-out 0.5s;
+   }
